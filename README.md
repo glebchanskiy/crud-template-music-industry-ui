@@ -5,7 +5,7 @@
 Clone repository:
 
 ```sh
-git clone https://github.com/glebchanskiy/crud-template-ui.git
+git clone https://github.com/glebchanskiy/music-industry-ui.git
 ```
 
 ## Run
@@ -13,7 +13,7 @@ git clone https://github.com/glebchanskiy/crud-template-ui.git
 Navigate to the project directory and run the project using npm:
 
 ```shell
-cd crud-template-ui
+cd music-industry-ui
 npm install
 npm run dev
 ```

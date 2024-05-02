@@ -7,7 +7,7 @@ import {
   UpdateEntityById,
 } from "./interfaces";
 
-const host = "http" + "://" + "localhost" + ":8080";
+const host = "http" + "://" + "localhost" + ":8081";
 
 export const api = {
   urlForAllTablesInfo: () => buildUrl(host + "/api/v1/tables")!,
